@@ -45,6 +45,8 @@
 
 코드 리뷰에서 가장 중요한 점은 "무엇을 볼지 구체적으로 말하는 것"입니다. 그냥 `코드를 리뷰해 줘` 보다, 어떤 범주를 집중해서 봐야 하는지 함께 주는 편이 결과가 훨씬 좋습니다.
 
+![Code Review Workflow](images/code-review-swimlane-single.png)
+
 ### 기본 리뷰
 
 ```text
