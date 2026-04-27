@@ -1,4 +1,6 @@
-# 2: 컨텍스트와 세션
+# 3: 컨텍스트와 세션
+
+> 🕒 실제 핸즈온 소요 시간: 약 25~35분
 
 이번 실습의 중심은 세 가지입니다.
 
@@ -140,6 +142,8 @@ copilot
 이미 읽은 파일과 앞선 질문을 바탕으로 대답이 점점 정교해집니다. 이 점이 단순 검색과 가장 크게 다른 부분입니다.
 
 ## 세션 관리
+
+<img src="images/session-persistence-timeline.png" alt="Timeline showing how GitHub Copilot CLI sessions persist across days - start on Monday, resume on Wednesday with full context restored" width="800"/>
 
 Copilot CLI 세션은 자동 저장됩니다. 따라서 작업을 끝내고 나중에 다시 이어서 할 수 있습니다.
 

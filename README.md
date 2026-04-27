@@ -1,4 +1,4 @@
-# GitHub Copilot CLI 핸즈온 랩 (요약판)
+# GitHub Copilot CLI 미니 워크샵
 
 > 원본:  [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners)
 >
@@ -29,7 +29,7 @@
 | # | 제목 | 예상 시간 |
 |---|------|-----------|
 | 1 | [설치 및 인증](./01-setup.md) | 10분 |
-| 2 | [3가지 모드로 첫 사용](./02-modes.md) | 20분 |
+| 2 | [3가지 모드와 기본 명령](./02-modes.md) | 20분 |
 | 3 | [컨텍스트와 세션](./03-context.md) | 20분 |
 | 4 | [개발 워크플로우](./04-workflows.md) | 30분 |
 | 5 | [커스텀 에이전트](./05-agents.md) | 20분 |
