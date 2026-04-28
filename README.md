@@ -40,18 +40,20 @@
 
 ## 🗂️ 이 랩에서 사용하는 샘플 앱
 
-원본 저장소의 [`samples/book-app-project`](https://github.com/github/copilot-cli-for-beginners/tree/main/samples/book-app-project) (Python 기반 책 관리 앱)를 사용합니다. 시작 전 복제해 두세요:
+아래의 두 가지 방법 중 편한 방법을 선택합니다.
 
-```powershell
-git clone https://github.com/github/copilot-cli-for-beginners
-cd copilot-cli-for-beginners
+1. 현재의 리포를 복제해서 사용합니다. 원본 리포에서 Sample 폴더를 그대로 복사해 두었기에 현재 리포를 복제해도 실습을 진행할 수 있습니다. 시작 전 복제해 두세요:
+
+```text
+git clone https://github.com/taeyo-kim/Copilot-CLI-mini-workshop
+cd Copilot-CLI-mini-workshop
 ```
 
-혹은 현재의 리포를 복제해서 사용하셔도 됩니다. 원본 리포에서 Sample 폴더를 그대로 복사해 두었기에 현재 리포를 복제하면 동일하게 `samples/book-app-project` 폴더를 사용할 수 있습니다.
+2. 원본 저장소의 [`samples/book-app-project`](https://github.com/github/copilot-cli-for-beginners/tree/main/samples/book-app-project) (Python 기반 책 관리 앱)를 사용합니다. 시작 전 복제해 두세요:
 
-```powershell
-https://github.com/taeyo-kim/Copilot-CLI-mini-workshop
-cd Copilot-CLI-mini-workshop
+```text
+git clone https://github.com/github/copilot-cli-for-beginners
+cd copilot-cli-for-beginners
 ```
 ## 권장 사항
 
