@@ -242,3 +242,5 @@ copilot --remote
 - 가장 자주 쓰는 명령은 `/help`, `/clear`, `/plan`, `/model`, `/research`, `/exit` 입니다.
 
 다음 단계: Chapter 02로 넘어가 `@` 참조와 세션 관리로 Copilot CLI에 더 정확한 문맥을 주는 방법을 익히면 됩니다.
+
+**[다음으로 이동하기 →](./03-context.md)**

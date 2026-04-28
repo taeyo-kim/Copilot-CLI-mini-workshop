@@ -1,4 +1,4 @@
-# 03: 개발 워크플로우
+# 4: 개발 워크플로우
 
 이 장은 GitHub Copilot CLI를 단순한 질의응답 도구가 아니라, 실제 개발 흐름 속에서 매일 쓰는 도구로 활용하는 방법을 다룹니다. 핵심은 다섯 가지 워크플로입니다.
 
@@ -386,3 +386,5 @@ Include:
 - 테스트 형식이 다르면 원하는 프레임워크를 직접 지정합니다
 - 리팩터링 시 `IMPORTANT: Maintain identical external behavior` 같은 문구를 넣으면 도움이 됩니다
 - Git 기반 프롬프트는 `git diff --staged`, `git show`, `git log main..HEAD` 같은 명령과 결합할 때 효과가 좋습니다
+
+**[다음으로 이동하기 →](./05-agents.md)**
