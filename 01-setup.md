@@ -1,4 +1,4 @@
-# 1: 설치 및 인증
+# 🚀 1: 설치 및 인증
 
 > ⏱️ 예상 시간: 10분
 > 🕒 실제 핸즈온 소요 시간: 약 10~15분
@@ -11,29 +11,29 @@
 
 ---
 
-## 1) 설치
+## 🛠️ 1) 설치
 
 플랫폼에 맞는 방법 하나를 선택하세요.
 
-### npm (모든 플랫폼, Node.js 필요)
+### 📦 npm (모든 플랫폼, Node.js 필요)
 
 ```powershell
 npm install -g @github/copilot
 ```
 
-### Windows (WinGet)
+### 🪟 Windows (WinGet)
 
 ```powershell
 winget install GitHub.Copilot
 ```
 
-### macOS/Linux (Homebrew)
+### 🍺 macOS/Linux (Homebrew)
 
 ```bash
 brew install copilot-cli
 ```
 
-### macOS/Linux (스크립트)
+### ⚙️ macOS/Linux (스크립트)
 
 ```bash
 curl -fsSL https://gh.io/copilot-install | bash
@@ -41,7 +41,7 @@ curl -fsSL https://gh.io/copilot-install | bash
 
 > 💡 **Codespaces를 쓰면 설치 불필요** — 원본 저장소를 Codespace로 열면 CLI가 이미 설치되어 있습니다.
 
-## 2) 실행 및 인증
+## 🔐 2) 실행 및 인증
 
 터미널에서 다음 명령을 실행합니다.
 
@@ -60,7 +60,7 @@ copilot
 
 > ✅ 로그인은 한 번만 하면 됩니다. 토큰이 만료되면 다시 `/login`.
 
-## 3) 동작 확인
+## ✅ 3) 동작 확인
 
 Copilot 세션 안에서 간단한 프롬프트를 보내 봅니다.
 
