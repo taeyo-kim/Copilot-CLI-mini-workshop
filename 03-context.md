@@ -244,7 +244,7 @@ copilot --continue
 이번에는 가장 최근 세션 자동 이어가기 대신, 저장된 세션 목록에서 직접 선택합니다.
 
 ```bash
-copilot --resume="practice-session"
+copilot --resume
 ```
 
 목록이 뜨면 조금 전에 이름 붙인 `practice-session` 을 선택합니다.
