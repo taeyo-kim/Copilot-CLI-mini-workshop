@@ -177,6 +177,11 @@ copilot
 > /mcp show
 > List the last 5 commits in this repository
 ```
+만일, GitHub MCP가 올바로 동작하지 않는다면, 다음 명령으로 Copilot을 시작합니다.
+
+```bash
+copilot --enable-all-github-mcp-tools
+```
 
 2. filesystem MCP를 설정합니다.
 
