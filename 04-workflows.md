@@ -354,8 +354,8 @@ git add .
 마지막으로 커밋 메시지와 PR 설명까지 이어갈 수 있습니다.
 
 ```text
-copilot -p "Generate a conventional commit message for: $(git diff --staged)"
-copilot -p "Generate a pull request description for these changes:
+> Generate a conventional commit message for: $(git diff --staged)
+> Generate a pull request description for these changes:
 $(git log main..HEAD --oneline)
 
 Include:
